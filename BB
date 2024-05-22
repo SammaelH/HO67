@@ -1,0 +1,17 @@
+ANDREW S. TANENBAUM Sistemas operativos modernos 3ra edicion 85 -120 22/08/2023
+DevSurvival
+https://www.devsurvival.com/multi-threaded-programming/?authuser=0&hl=es
+21/05/24
+GeeksforGeeks
+https://www.geeksforgeeks.org/thread-states-in-operating-systems/?authuser=0&hl=es
+https://www.geeksforgeeks.org/multithreading-in-c/?authuser=0&hl=es
+21/05/24
+Guru99
+https://www.guru99.com/difference-between-process-and-thread.html?gpp&gpp_sid&authuser=0&hl=es
+21/05/24
+TutorialsPoint
+https://www.tutorialspoint.com/multithreading-in-c?authuser=0&hl=es
+21/05/24
+JavaPoint
+https://www.javatpoint.com/posix-threads-in-os?authuser=0&hl=es
+21/05/24
